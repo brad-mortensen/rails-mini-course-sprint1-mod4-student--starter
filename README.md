@@ -31,3 +31,5 @@ We will use this repo to test functionality:
 3. Ensure the `factory_bot` gem is greater than or equal to `5.0.0` but less than `6.0.0`.
 4. Add the `archiver` gem as a local gem and include the Archiver functionality into the Article model.
 5. Make sure that the added Archiver functionality works in the blog by testing it on articles.
+ Inits
+ 
